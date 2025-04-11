@@ -1,10 +1,13 @@
 Automation scripts for the Huawei B315s-936  
 
-Tested on:  
+## Requirements:
+- [huawei-lte-api](https://github.com/Salamek/huawei-lte-api)
+
+### Tested on:  
 
 ```
-Software version:	21.329.01.00.1006
-Web UI version:	17.100.09.00.03
+Software version:  21.329.01.00.1006
+Web UI version:    17.100.09.00.03
 ```
 
 ## Scripts included
